@@ -18,3 +18,8 @@ to economic and technological themes.
 6. Export firm-level scores and supporting evidence
 
 ## Repository Structure
+scripts/ # data ingestion, cleaning, and scoring pipeline
+sql/ # database schema and example queries
+data/ # sample / intermediate outputs (large data excluded)
+docker-compose.yml
+requirements.txt
